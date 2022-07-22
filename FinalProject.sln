@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{2CC1EFB1-E164-4F0F-BAFE-D26C8EB0C036}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F1D0EA26-AC29-4C44-AEA4-0898F6BE270E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{70DFBA5E-B4BC-4A82-B1DD-1B20A7450DCF}"
 	ProjectSection(SolutionItems) = preProject
 		UpdateFile.txt = UpdateFile.txt
 	EndProjectSection

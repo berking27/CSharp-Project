@@ -1,11 +1,11 @@
 ﻿using System;
+using Microsoft.EntityFrameworkCore;
+
 namespace DataAccess.Concrete.EntityFramework
 {
-    public class Context
+    public class Context : DbContext
     {
-        public Context()
-        {
-        }
+        
     }
 }
 
